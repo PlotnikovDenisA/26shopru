@@ -1,5 +1,1 @@
-<?php
-
- phpinfo();
- 
-?>
+<a href="designShop/index.html">designShop</a>
